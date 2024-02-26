@@ -14,5 +14,6 @@ SwapList<int> arr = new SwapList<int> { 1, 2, 3 };
 Console.WriteLine(arr[1]+" " + arr[2]);
 arr.MySwap(1,2);
 Console.WriteLine(arr[1] + " " + arr[2]);
+Console.WriteLine();
 
 
